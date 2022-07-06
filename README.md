@@ -54,5 +54,11 @@ Matthew Ward https://github.com/mward95
 
 
 
+Technology stack used in developing this web application is as follows:
+leaflet.js
+HTML/CSS/Bootstrap/Javascript
+GeoJSON
 
 Sources:
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
