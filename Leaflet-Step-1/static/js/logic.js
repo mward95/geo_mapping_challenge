@@ -116,5 +116,4 @@ d3.json(GeoJSONUrl).then(function(data){
         return div;
     };
     legend.addTo(worldMap);
-    
 });
