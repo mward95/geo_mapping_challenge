@@ -70,3 +70,5 @@ https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson
 https://leafletjs.com/examples/choropleth/
 
 https://color.adobe.com/create/color-wheel
+
+https://www.lostcreekdesigns.co/writing/mapbox-styles-cheatsheet/
