@@ -1,7 +1,6 @@
 // Create an initial map object
 // leaflet overview shows how to setup
 var worldMap = L.map('map',{
-    // center:[37.0902, -95.7129]
     center:[0,0],
     zoom: 3
 })
