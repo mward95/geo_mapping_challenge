@@ -60,5 +60,13 @@ HTML/CSS/Bootstrap/Javascript
 GeoJSON
 
 Sources:
+
+https://leafletjs.com/reference.html#circle-getradius
+
 https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
-https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
+
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson
+
+https://leafletjs.com/examples/choropleth/
+
+https://color.adobe.com/create/color-wheel
